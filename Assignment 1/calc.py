@@ -1,5 +1,5 @@
-#Collins Mutugi Wachira
-#SCT211-0051/2022
+# Collins Mutugi Wachira
+# SCT211-0051/2022
 name = input("enter name: ")
 print("hello " + name)
 
@@ -35,4 +35,3 @@ elif opr == "/":
         
 else:
     print("error!!")
-    
